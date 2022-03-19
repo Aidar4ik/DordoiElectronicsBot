@@ -1,1 +1,1 @@
-worker: java -cp target/classes:/target/dependency/Main
+worker: java -jar target/JARNAME.jar Main
